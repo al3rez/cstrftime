@@ -13,6 +13,8 @@ The missing strftime in Go.
 ```go
 package main
 
+import "github.com/cooldrip/cstrftime"
+
 func main() {
 	t := time.Now()
 	fmt.Println(cstrftime.Format("%d", t)) // 25
