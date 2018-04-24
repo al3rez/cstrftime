@@ -1,4 +1,4 @@
-# ⌛️cstrftime
+# ⌛️cstrftime [![GoDoc](https://godoc.org/github.com/cooldrip/cstrftime?status.svg)](https://godoc.org/github.com/cooldrip/cstrftime) [![codecov](https://codecov.io/gh/cooldrip/cstrftime/branch/master/graph/badge.svg)](https://codecov.io/gh/cooldrip/cstrftime)
 
 The missing strftime in Go.
 
